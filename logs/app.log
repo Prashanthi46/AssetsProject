@@ -1,0 +1,22 @@
+2022-08-23 08:42:42,806 ERROR com.asset.controller.AccessoriesController [http-nio-8090-exec-1] No desktops in Database
+2022-08-23 08:42:47,830 ERROR com.asset.controller.AccessoriesController [http-nio-8090-exec-3] No desktops in Database
+2022-08-23 08:42:55,889 ERROR com.asset.controller.AccessoriesController [http-nio-8090-exec-4] desktop with the id 1001 is not in database
+2022-08-23 08:43:08,091 INFO com.asset.controller.AccessoriesController [http-nio-8090-exec-5] Successfully created
+2022-08-23 08:43:16,300 INFO com.asset.controller.AccessoriesController [http-nio-8090-exec-6] Fetch all desktops details from the database
+2022-08-23 08:43:16,303 INFO com.asset.controller.AccessoriesController [http-nio-8090-exec-6] Fetch all desktops details from the database
+2022-08-23 08:46:55,036 INFO com.asset.controller.AccessoriesController [http-nio-8090-exec-2] Fetch all Accessories details from the database
+2022-08-23 08:46:55,050 INFO com.asset.controller.AccessoriesController [http-nio-8090-exec-2] Fetch all Accessories details from the database
+2022-08-23 08:47:17,923 INFO com.asset.controller.AccessoriesController [http-nio-8090-exec-3] Fetch all laptops details from the database
+2022-08-23 08:47:17,926 INFO com.asset.controller.AccessoriesController [http-nio-8090-exec-3] Fetch all laptops details from the database
+2022-08-23 08:54:29,922 INFO com.asset.controller.AccessoriesController [http-nio-8090-exec-1] Fetch all Accessories details from the database
+2022-08-23 08:56:07,767 INFO com.asset.controller.AccessoriesController [http-nio-8090-exec-1] Fetch all Accessories details from the database
+2022-08-23 08:58:34,237 INFO com.asset.controller.AccessoriesController [http-nio-8090-exec-2] Fetch all laptops details from the database
+2022-08-23 08:59:14,214 INFO com.asset.controller.AccessoriesController [http-nio-8090-exec-3] Updated Successfully
+2022-08-23 08:59:20,173 INFO com.asset.controller.AccessoriesController [http-nio-8090-exec-4] Fetch all laptops details from the database
+2022-08-23 08:59:33,209 INFO com.asset.controller.AccessoriesController [http-nio-8090-exec-6] Fetch all laptops details from the database
+2022-08-23 09:00:25,519 INFO com.asset.controller.AccessoriesController [http-nio-8090-exec-1] Fetch all laptops details from the database
+2022-08-23 09:04:27,711 INFO com.asset.controller.AccessoriesController [http-nio-8090-exec-2] Fetch all laptops details from the database
+2022-08-23 09:04:42,886 INFO com.asset.controller.AccessoriesController [http-nio-8090-exec-3] Fetch all desktops details from the database
+2022-08-23 09:04:53,282 INFO com.asset.controller.AccessoriesController [http-nio-8090-exec-4] Fetch all Card details from the database
+2022-08-23 09:38:36,211 INFO com.asset.controller.AccessoriesController [http-nio-8090-exec-1] Fetch all Card details from the database
+2022-08-23 12:47:20,524 INFO com.asset.controller.AccessoriesController [http-nio-8090-exec-2] Fetch all Accessories details from the database
